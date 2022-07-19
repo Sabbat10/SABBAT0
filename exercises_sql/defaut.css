@@ -1,0 +1,40 @@
+body{
+	font-family: arial;
+}
+h2{
+	color: white;
+	text-align: center;
+	background: blue;
+	margin: 20px;
+	padding: 10px;
+}
+#contenu {
+	width: 50%;
+	background: #CCCCCC;;
+	color: black;
+	padding: 6px;
+	margin: 20px;
+}
+#contenu1 {
+	width: 65%;
+	background: #CCCCCC;;
+	color: black;
+	padding: 6px;
+	margin: 20px;
+}
+h3, h5 {
+	text-align: center;
+	background: black;
+	color: white;
+	padding: 5px;
+	margin-top: 0px;
+}
+#contenu a{
+	padding: 6px;
+	color: blue;
+	text-decoration: none;
+}
+p{
+	text-align: justify;
+	padding: 5px;
+}
